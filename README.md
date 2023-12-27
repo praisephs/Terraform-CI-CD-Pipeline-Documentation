@@ -74,6 +74,9 @@ Cloud infrastructure is often provisioned and managed through automation tools a
 8. ## Security and Compliance
 Cloud providers invest heavily in security measures to protect infrastructure. Users can leverage built-in security features and compliance certifications to ensure that their infrastructure meets industry standards.
 
+# GitHub CI/CD Pipeline: Streamlining Software Delivery
+Continuous Integration and Continuous Delivery (CI/CD) is a software development practice that aims to automate the building, testing, and deployment of code changes. GitHub provides a robust CI/CD platform that integrates seamlessly with version control, enabling developers to maintain a rapid and reliable software delivery pipeline
+
 ## Prerequisites:
 
 1. ## Install Terraform:
